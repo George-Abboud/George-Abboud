@@ -1,7 +1,7 @@
 <h3 align="center">
   Hi, I'm George Abboud 👋
 </h3>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=482&lines=Flutter+Developer;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AD" alt="Typing SVG"/></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=482&lines=Flutter+Developer;UI/UX+Designer;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AD" alt="Typing SVG"/></a></h1>
 
 👨‍💻 As a ITE student, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with Flutter, UI/UX, C++, Java.<br>🔭 I’m currently working on Adaptive & Responsive Dashboard.<br>🌱 I’m currently learning Flutter<br>
 
